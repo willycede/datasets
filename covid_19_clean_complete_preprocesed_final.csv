@@ -88,7 +88,7 @@ Province/State;Country/Region;Lat;Long;Date;Confirmed;Deaths;Recovered;Active;WH
 ;Ecuador;-18.312;-781.834;8/7/2020;63245;4873;29071;29301;Americas;0;0
 ;Ecuador;-18.312;-781.834;20/7/2020;74620;5318;31955;37347;Americas;5;607
 ;Ecuador;-18.312;-781.834;26/7/2020;80694;5515;34896;40283;Americas;8;658
-;Colombia;45.709;-742.973;22/1/2020;0;0;0;0;Americas;0;-81161
+;Colombia;45.709;-742.973;22/1/2020;0;0;0;0;Americas;0;0
 ;Colombia;45.709;-742.973;23/1/2020;0;0;0;0;Americas;0;0
 ;Colombia;45.709;-742.973;24/1/2020;0;0;0;0;Americas;0;0
 ;Colombia;45.709;-742.973;25/1/2020;0;0;0;0;Americas;0;0
@@ -183,3 +183,4 @@ Province/State;Country/Region;Lat;Long;Date;Confirmed;Deaths;Recovered;Active;WH
 ;Colombia;45.709;-742.973;2/5/2020;7285;324;1666;5295;Americas;10;279
 ;Colombia;45.709;-742.973;7/5/2020;9456;407;2300;6749;Americas;10;497
 ;Colombia;45.709;-742.973;26/7/2020;240795;8269;119667;112859;Americas;0;0
+;;;;;;;;;;1,597826087;65,25
