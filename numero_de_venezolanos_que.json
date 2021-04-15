@@ -1,0 +1,182 @@
+﻿{
+    "Id": "ba5eb375-8bd5-4a60-8232-cc418c5d2e24",
+    "Url": "www.epdata.es/numero-venezolanos-viven-espana/ba5eb375-8bd5-4a60-8232-cc418c5d2e24",
+    "Titulo": "Número de venezolanos que viven en España",
+    "Subtitulo": "",
+    "Datos": {
+        "Metricas": [
+            {
+                "Id": 0,
+                "Nombre": "Cifras de población a nivel semestral - Número de personas para total como sexo, total como grupo quinquenal de edad, España como país de residencia y Venezuela como país de nacionalidad",
+                "SonDatosNumericos": true,
+                "Fuente": "INE",
+                "Clasificacion": null,
+                "Unidad": "Número de personas",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "2011",
+                        "Valor": 55101,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Semestre 2",
+                        "Valor": 54001,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "2012",
+                        "Valor": 53836,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Semestre 2",
+                        "Valor": 52637,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "2013",
+                        "Valor": 51981,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Semestre 2",
+                        "Valor": 47568,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "2014",
+                        "Valor": 44393,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Semestre 2",
+                        "Valor": 42635,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "2015",
+                        "Valor": 44236,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Semestre 2",
+                        "Valor": 45932,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "2016",
+                        "Valor": 49956,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Semestre 2",
+                        "Valor": 53487,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "2017",
+                        "Valor": 63268,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Semestre 2",
+                        "Valor": 73498,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "2018",
+                        "Valor": 91131,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Semestre 2",
+                        "Valor": 109915,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "2019",
+                        "Valor": 133980,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Semestre 2",
+                        "Valor": 158360,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "2020",
+                        "Valor": 187205,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Semestre 2",
+                        "Valor": 204248,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    }
+                ]
+            }
+        ]
+    }
+}
