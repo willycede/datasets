@@ -214,6 +214,14 @@
                         "Valor": 29376,
                         "Estado": "Provisional",
                         "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "2020",
+                        "Valor": 10367,
+                        "Estado": "Provisional",
+                        "Notas": null
                     }
                 ]
             },
